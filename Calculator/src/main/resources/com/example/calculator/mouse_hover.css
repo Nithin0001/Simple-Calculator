@@ -1,0 +1,8 @@
+.a{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+.b:hover{
+    -fx-background-color: dodgerblue;
+    -fx-background-radius: 1000;
+}
