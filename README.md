@@ -1,2 +1,2 @@
 # Simple_Calculator
-Simple Calculator designed in IntelliJ using JavaFX
+Simple Calculator designed in IntelliJ IDEA & Scene Builder using JavaFX.
